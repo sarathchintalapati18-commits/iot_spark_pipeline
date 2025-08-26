@@ -1,5 +1,7 @@
-pyspark==3.5.1
-paho-mqtt==2.1.0
+flask
 pandas
+numpy
+scikit-learn
+xgboost
 joblib
-faker
+paho-mqtt
